@@ -3,7 +3,7 @@ Dataset link: https://ourworldindata.org/covid-deaths
 
 ## Data preprocessing:
 
-We are preprocessing the data using python in jupyter notebook. Here we will be cleaning our dataset like removing unnecessary data. we will create 2 separate files for "Covid Vaccination" and "Covid Deaths".
+We are preprocessing the data using python in jupyter notebook. Here we will be cleaning our dataset like removing unnecessary data. we will create two separate files for "Covid Vaccination" and "Covid Deaths".
 
 Then we have removed unnecessary columns and created a checkpoint. We have also reordered our column value for ease of access.
 
